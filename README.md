@@ -44,8 +44,4 @@ For Practical 9, keep `input.txt` in the same directory as the Python program.
 ## Author
 
 Student practical submission.
-# sample-outputs
-# Sample Outputs
-
-```
 
