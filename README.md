@@ -2,8 +2,7 @@
 
 # Object Oriented Programming Using Python
 
-**Name:** Taniya
-
+**Name:** Taniya 
 **Roll Number:** 26570063
 **Course:** B.Sc. (Hons.) Computer Science  
 **Semester:** I  
